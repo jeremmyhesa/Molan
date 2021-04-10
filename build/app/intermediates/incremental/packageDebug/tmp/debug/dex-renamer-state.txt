@@ -1,0 +1,4 @@
+#Sat Apr 10 21:56:14 ICT 2021
+base.0=D\:\\Semester 6\\Android\\list tile\\list_tile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
